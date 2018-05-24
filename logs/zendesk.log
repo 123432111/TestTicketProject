@@ -1,0 +1,2 @@
+05/23/18-23:34:00.838 INFO  com.util.BaseUtil - POST to url [https://test1233133help.zendesk.com/api/v2/tickets.json], duration [1180] ms.
+05/23/18-23:34:00.840 INFO  com.util.BaseUtil - Attached to allure file [Ticket create respond].
